@@ -1,8 +1,8 @@
 from pwn import *
 import paramiko
 
-host = "127.0.0.1"
-username = "not root"
+host = "127.0.0.1"  // yoour IPaddress 
+username = "not root"  // username 
 attempts = 0
 
 with open("ssh-common-passwords.txt", "r") as password_list:
