@@ -5,7 +5,7 @@ Certainly! Here's the updated section in the README file:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/ssh-password-cracker.git
+git clone https://github.com/Madhav-Sai/ssh_bruteforce.git
 ```
 
 2. Navigate to the project directory:
